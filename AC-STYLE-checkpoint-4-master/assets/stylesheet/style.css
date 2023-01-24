@@ -1149,7 +1149,7 @@ h6:hover {
     display: inline-block;
   }
   .bars i {
-    background-color: transparent;
+    background-color: white;
     color: var(--primary);
     display: inline-block;
     position: fixed;
